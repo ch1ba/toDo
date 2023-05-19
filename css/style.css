@@ -15,7 +15,7 @@
   }
 
 body {
-    background-image: linear-gradient(rgba(24, 24, 36,0.85),rgba(24, 24, 36, 0.85)), url("/src/img/Без\ имени-1.jpg");
+    background-image: linear-gradient(rgba(24, 24, 36,0.85),rgba(24, 24, 36, 0.85)), url("../img/Без\ имени-1.jpg");
     
 }
 
